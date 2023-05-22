@@ -1,0 +1,3 @@
+geo\GeoServiceTests.class
+sender\MessageSenderTests.class
+i18n\LocalizationServiceTests.class
